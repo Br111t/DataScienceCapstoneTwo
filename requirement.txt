@@ -1,0 +1,5 @@
+File for reproducing the environment.
+
+Data
+	-external: third party sources  
+	-interim: In-progress intermediate  

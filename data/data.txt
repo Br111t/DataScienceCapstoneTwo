@@ -1,0 +1,21 @@
+These will include the final data sets for modelling. 
+
+folder can include the following for the project 
+	__init__.py	<- makes src a Python module. 
+	custom_fun.py	<- Various custom functions to import  
+
+folder can include the following to be imported 
+	data 	<-scripts to download 
+
+folder can include the following to generate data
+	make_dataset.py
+	models <-scripts to train models and then use 
+		trained models to make predictions 
+
+folder can include predictions 
+	predict_model.py
+	train_model.py
+
+	viz	<-scripts to create 
+
+
