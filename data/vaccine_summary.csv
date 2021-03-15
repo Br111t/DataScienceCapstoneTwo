@@ -1,0 +1,201 @@
+country,vaccine,count
+Canada,Covaxin,0
+Canada,EpiVacCorona,0
+Canada,Johnson&Johnson,0
+Canada,Moderna,48
+Canada,Oxford/AstraZeneca,0
+Canada,Pfizer/BioNTech,48
+Canada,Sinopharm/Beijing,0
+Canada,Sinopharm/Wuhan,0
+Canada,Sinovac,0
+Canada,Sputnik V,0
+Mexico,Covaxin,0
+Mexico,EpiVacCorona,0
+Mexico,Johnson&Johnson,0
+Mexico,Moderna,0
+Mexico,Oxford/AstraZeneca,67
+Mexico,Pfizer/BioNTech,67
+Mexico,Sinopharm/Beijing,0
+Mexico,Sinopharm/Wuhan,0
+Mexico,Sinovac,0
+Mexico,Sputnik V,67
+Indonesia,Covaxin,0
+Indonesia,EpiVacCorona,0
+Indonesia,Johnson&Johnson,0
+Indonesia,Moderna,0
+Indonesia,Oxford/AstraZeneca,0
+Indonesia,Pfizer/BioNTech,0
+Indonesia,Sinopharm/Beijing,0
+Indonesia,Sinopharm/Wuhan,0
+Indonesia,Sinovac,47
+Indonesia,Sputnik V,0
+Bangladesh,Covaxin,0
+Bangladesh,EpiVacCorona,0
+Bangladesh,Johnson&Johnson,0
+Bangladesh,Moderna,0
+Bangladesh,Oxford/AstraZeneca,33
+Bangladesh,Pfizer/BioNTech,0
+Bangladesh,Sinopharm/Beijing,0
+Bangladesh,Sinopharm/Wuhan,0
+Bangladesh,Sinovac,0
+Bangladesh,Sputnik V,0
+Morocco,Covaxin,0
+Morocco,EpiVacCorona,0
+Morocco,Johnson&Johnson,0
+Morocco,Moderna,0
+Morocco,Oxford/AstraZeneca,30
+Morocco,Pfizer/BioNTech,0
+Morocco,Sinopharm/Beijing,30
+Morocco,Sinopharm/Wuhan,0
+Morocco,Sinovac,0
+Morocco,Sputnik V,0
+Poland,Covaxin,0
+Poland,EpiVacCorona,0
+Poland,Johnson&Johnson,0
+Poland,Moderna,63
+Poland,Oxford/AstraZeneca,63
+Poland,Pfizer/BioNTech,63
+Poland,Sinopharm/Beijing,0
+Poland,Sinopharm/Wuhan,0
+Poland,Sinovac,0
+Poland,Sputnik V,0
+Chile,Covaxin,0
+Chile,EpiVacCorona,0
+Chile,Johnson&Johnson,0
+Chile,Moderna,0
+Chile,Oxford/AstraZeneca,0
+Chile,Pfizer/BioNTech,66
+Chile,Sinopharm/Beijing,0
+Chile,Sinopharm/Wuhan,0
+Chile,Sinovac,66
+Chile,Sputnik V,0
+Spain,Covaxin,0
+Spain,EpiVacCorona,0
+Spain,Johnson&Johnson,0
+Spain,Moderna,55
+Spain,Oxford/AstraZeneca,55
+Spain,Pfizer/BioNTech,55
+Spain,Sinopharm/Beijing,0
+Spain,Sinopharm/Wuhan,0
+Spain,Sinovac,0
+Spain,Sputnik V,0
+Italy,Covaxin,0
+Italy,EpiVacCorona,0
+Italy,Johnson&Johnson,0
+Italy,Moderna,64
+Italy,Oxford/AstraZeneca,64
+Italy,Pfizer/BioNTech,64
+Italy,Sinopharm/Beijing,0
+Italy,Sinopharm/Wuhan,0
+Italy,Sinovac,0
+Italy,Sputnik V,0
+France,Covaxin,0
+France,EpiVacCorona,0
+France,Johnson&Johnson,0
+France,Moderna,63
+France,Oxford/AstraZeneca,63
+France,Pfizer/BioNTech,63
+France,Sinopharm/Beijing,0
+France,Sinopharm/Wuhan,0
+France,Sinovac,0
+France,Sputnik V,0
+Russia,Covaxin,0
+Russia,EpiVacCorona,76
+Russia,Johnson&Johnson,0
+Russia,Moderna,0
+Russia,Oxford/AstraZeneca,0
+Russia,Pfizer/BioNTech,0
+Russia,Sinopharm/Beijing,0
+Russia,Sinopharm/Wuhan,0
+Russia,Sinovac,0
+Russia,Sputnik V,76
+United Arab Emirates,Covaxin,0
+United Arab Emirates,EpiVacCorona,0
+United Arab Emirates,Johnson&Johnson,0
+United Arab Emirates,Moderna,0
+United Arab Emirates,Oxford/AstraZeneca,55
+United Arab Emirates,Pfizer/BioNTech,55
+United Arab Emirates,Sinopharm/Beijing,55
+United Arab Emirates,Sinopharm/Wuhan,55
+United Arab Emirates,Sinovac,0
+United Arab Emirates,Sputnik V,55
+Germany,Covaxin,0
+Germany,EpiVacCorona,0
+Germany,Johnson&Johnson,0
+Germany,Moderna,64
+Germany,Oxford/AstraZeneca,64
+Germany,Pfizer/BioNTech,64
+Germany,Sinopharm/Beijing,0
+Germany,Sinopharm/Wuhan,0
+Germany,Sinovac,0
+Germany,Sputnik V,0
+Brazil,Covaxin,0
+Brazil,EpiVacCorona,0
+Brazil,Johnson&Johnson,0
+Brazil,Moderna,0
+Brazil,Oxford/AstraZeneca,44
+Brazil,Pfizer/BioNTech,0
+Brazil,Sinopharm/Beijing,0
+Brazil,Sinopharm/Wuhan,0
+Brazil,Sinovac,44
+Brazil,Sputnik V,0
+Israel,Covaxin,0
+Israel,EpiVacCorona,0
+Israel,Johnson&Johnson,0
+Israel,Moderna,72
+Israel,Oxford/AstraZeneca,0
+Israel,Pfizer/BioNTech,72
+Israel,Sinopharm/Beijing,0
+Israel,Sinopharm/Wuhan,0
+Israel,Sinovac,0
+Israel,Sputnik V,0
+Turkey,Covaxin,0
+Turkey,EpiVacCorona,0
+Turkey,Johnson&Johnson,0
+Turkey,Moderna,0
+Turkey,Oxford/AstraZeneca,0
+Turkey,Pfizer/BioNTech,0
+Turkey,Sinopharm/Beijing,0
+Turkey,Sinopharm/Wuhan,0
+Turkey,Sinovac,47
+Turkey,Sputnik V,0
+India,Covaxin,44
+India,EpiVacCorona,0
+India,Johnson&Johnson,0
+India,Moderna,0
+India,Oxford/AstraZeneca,44
+India,Pfizer/BioNTech,0
+India,Sinopharm/Beijing,0
+India,Sinopharm/Wuhan,0
+India,Sinovac,0
+India,Sputnik V,0
+United Kingdom,Covaxin,0
+United Kingdom,EpiVacCorona,0
+United Kingdom,Johnson&Johnson,0
+United Kingdom,Moderna,0
+United Kingdom,Oxford/AstraZeneca,77
+United Kingdom,Pfizer/BioNTech,77
+United Kingdom,Sinopharm/Beijing,0
+United Kingdom,Sinopharm/Wuhan,0
+United Kingdom,Sinovac,0
+United Kingdom,Sputnik V,0
+China,Covaxin,0
+China,EpiVacCorona,0
+China,Johnson&Johnson,0
+China,Moderna,0
+China,Oxford/AstraZeneca,0
+China,Pfizer/BioNTech,0
+China,Sinopharm/Beijing,56
+China,Sinopharm/Wuhan,56
+China,Sinovac,56
+China,Sputnik V,0
+United States,Covaxin,0
+United States,EpiVacCorona,0
+United States,Johnson&Johnson,0
+United States,Moderna,71
+United States,Oxford/AstraZeneca,0
+United States,Pfizer/BioNTech,71
+United States,Sinopharm/Beijing,0
+United States,Sinopharm/Wuhan,0
+United States,Sinovac,0
+United States,Sputnik V,0
