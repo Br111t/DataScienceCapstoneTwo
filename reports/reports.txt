@@ -1,1 +1,0 @@
-This will potentially contain HTML, PDF, and LaTeX files if necessary and relevant generated figures. 

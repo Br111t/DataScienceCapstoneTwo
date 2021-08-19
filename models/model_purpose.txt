@@ -1,1 +1,0 @@
-Models houses trained and serialized models. Will fill in when I have a better idea about the potential data that I can train. 
