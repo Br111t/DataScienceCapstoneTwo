@@ -1,8 +1,6 @@
 # DataScienceCapstoneTwo
 
-##Project proposal Link 
-
-https://docs.google.com/document/d/1ULOmRJoJ8EraMtoebWIJxfXqms3A8g4p2c74DJ8Mk68/edit?usp=sharing
+Project proposal Link: https://drive.google.com/file/d/1ABrZ6iSLFORXnjAhLxxPRJnzdsiOJnfb/view?usp=sharing
 
 COVID-19 Case Study 2020, A time series comparison of active and recovered COVID-19
 patients. Cross-analyzed and forecasted rates of active infection using a sample of the global population.
