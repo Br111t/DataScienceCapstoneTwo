@@ -12,4 +12,4 @@ Data Science Method:
 2. Data Wrangling: Removing inconsistent datatypes, misspelled attributes, duplicate values and adding missing data 
 3. Exploratory data analysis: Data visualization and Communication 
 4. Preprocessing and training: data transformation, defines and refines the selection of feature variables that will be used in the model development  
-5. Data Modeling: used to identify the model that best fits the business requirement (ARIMA, SARIMAX). 
+5. Data Modeling: used to identify the model that best fits the business requirement (ARIMA). 
