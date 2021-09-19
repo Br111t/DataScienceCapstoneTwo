@@ -2,6 +2,8 @@
 
 Project proposal Link: https://drive.google.com/file/d/1ABrZ6iSLFORXnjAhLxxPRJnzdsiOJnfb/view?usp=sharing
 
+Project presentation Link: https://docs.google.com/presentation/d/1bsr6yK-ijIEZrV-YDB6889vdSn2q5qYbSHffl_cW3Xg/edit?usp=sharing
+
 COVID-19 Case Study 2020, A time series comparison of active and recovered COVID-19
 patients. Cross-analyzed and forecasted rates of active infection using a sample of the global population.
 
