@@ -24,4 +24,4 @@
   <img src="images/kdevaccine.png" />
 </p>
 
-###### The vaccine ratio is defined as single doses administered to the entire population of the country. The top five countries with highest single vaccine ratio per capita in March of 2020 were Israel at 92%, United Arab Emirates at 52%, United Kingdom at 29%, United States at 21% and Chile at 17% coverage.
+###### The vaccine ratio is defined as single doses administered to the entire population of the country. The top five countries with highest single vaccine ratio per capita in March of 2021 were Israel at 92%, United Arab Emirates at 52%, United Kingdom at 29%, United States at 21% and Chile at 17% coverage.
