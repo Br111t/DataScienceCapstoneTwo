@@ -1,4 +1,9 @@
-# DataScienceCapstoneTwo
+# **COVID-19 Case Study 2020**
+### A time series comparison of COVID19 Cases, Vaccinations and the Global Population
+
+###### The purpose of this data science project is to visualize the effective strategies for distribution of multiple vaccines as COVID19 continues to spread billions of people around the world are waiting for treatment or to be vaccinated. The shared responsibility of maintaining a healthy environment rests on the shoulders of each individual, vaccinated or not. When the death toll from the corona virus disease was determined to be _unstoppable_ there were many rules put in place. This shifted the focus of communities around the world to emphasize biosafety governance.
+
+###### Each country's medical infrastructure continues to play a vital role for everyone. In the rare instance of this pandemic the data that has been captured can result in a good approximation of how the current technological advancements help reduce the time that it takes to control the spread of the disease. The health and status of each country is changing constantly and could never be understood fully when contemplating the epidemiology with reference to 1 disease.
 
 Project proposal Link: https://drive.google.com/file/d/1dKVrxDrvgkrHl95bOVeGM2IJBMRtPFSJ/view?usp=sharing
 
