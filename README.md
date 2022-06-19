@@ -17,7 +17,7 @@
   <img src="images/vaccines.png" />
 </p>
 
-###### There are 20 countries listed here and all have had vaccine counts greater than 1 million. This is good considering that this is for a 3 month period after the vaccines were approved for clinical trials. Pfizer was the vaccine distributed to the most countries, then AstraZeneca, then Moderna. Multiple vaccines were given to each country and they were recorded in multiples, I was not able to derive the individual vaccine count for all.
+###### There are 20 countries listed here and all have had vaccine counts greater than 1 million. This is good considering that this is for a 3 month period after the vaccines were approved for clinical trials at the end of 2020. Pfizer was the vaccine distributed to the most countries, then AstraZeneca, then Moderna. Multiple vaccines were given to each country and they were recorded in multiples, I was not able to derive the individual vaccine count for all.
 
 #### Vaccine Country Ratio 
 <p align="center">
